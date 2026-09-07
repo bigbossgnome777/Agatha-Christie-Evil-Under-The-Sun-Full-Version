@@ -229,3 +229,6 @@ This repository serves as the official landing page for **Agatha Christie: Evil 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Agatha Christie: Evil Under the Sun today!**
+
+---
+**Last updated:** 2026-09-07 00:41:43 UTC
